@@ -1,0 +1,11 @@
+*#  
+*~
+*.csv
+*.pyc
+__pycache__/
+.idea/
+data/*
+.ipynb_checkpoints/
+.env/
+models/*
+results/*
